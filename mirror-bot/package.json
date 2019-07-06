@@ -1,0 +1,22 @@
+{
+  "name": "nsa",
+  "version": "1.0.0",
+  "description": "slack bot to associate groups",
+  "repository": "https://github.com/minitru/nsa",
+  "main": "mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.0",
+    "mqtt": "^2.18.8",
+    "oauth2": "git+https://github.com/koustubh25/slack-oauth2.git",
+    "persist": "^0.2.7",
+    "simple-hashtable": "^1.0.0",
+    "slackbots": "^1.2.0"
+  }
+}
