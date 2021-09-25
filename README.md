@@ -8,3 +8,4 @@ Mirror slack channels between different Slack instances.
 
 Or try it - https://dev.maclawran.ca
 
+Testing branch
